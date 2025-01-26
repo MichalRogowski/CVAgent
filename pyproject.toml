@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "cvagent"
+version = "0.1.0"
+description = "CVAgent is an AI-driven tool that generates, critiques, and renders resumes tailored to specific job ads. Powered by Autogen and RenderCV, it refines user inputs and job requirements into a polished CV, saving time and ensuring alignment. Start building your next resume with ease."
+authors = ["Michal Rogowski <michal@beyondsenior.engineering>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+rendercv = "2.1"
+autogen-ext = {version = "0.4.3", extras = ["openai"]}
+autogen-agentchat = "0.4.3"
+python-dotenv = "1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
