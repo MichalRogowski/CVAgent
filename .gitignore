@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/michal_rogowski_cv.html
+/michal_rogowski_cv.md
+/michal_rogowski_cv.pdf
+/michal_rogowski_cv.typ
+rendercv_output/Michal_Rogowski_CV.html
+rendercv_output/Michal_Rogowski_CV.md
+rendercv_output/Michal_Rogowski_CV.pdf
+rendercv_output/Michal_Rogowski_CV.typ
+rendercv_output/Michal_Rogowski_CV_1.png
+rendercv_output/Michal_Rogowski_CV_2.png

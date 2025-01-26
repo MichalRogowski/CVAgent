@@ -1,0 +1,102 @@
+cv:
+  name: John Doe
+  location: Berlin, Germany; Remote
+  email: alex.nowak@11111.com
+  phone: +49 163 555 1584
+  website: https://www.alexnowakproduct.com
+  social_networks:
+    - network: LinkedIn
+      username: alex-nowak
+    - network: GitHub
+      username: alexnowak
+    - network: YouTube
+      username: "11111111yoooooo"
+  sections:
+    professional_summary:
+      - Experienced Senior Product Manager with over 10 years of experience in driving product innovation,
+        specializing in payment security and tokenization. Proven track record of leading cross-functional teams
+        to deliver large-scale projects successfully while implementing advanced fraud prevention technologies.
+        Adept at utilizing data-driven insights to achieve measurable outcomes and create customer-centric
+        strategies. Passionate about mentoring future product managers and fostering inclusive team cultures.
+    commercial_experience:
+      - company: Tech Solutions Co.
+        position: Product Manager
+        start_date: 2022-01
+        end_date: present
+        location: Remote
+        highlights:
+          - Designed and implemented product roadmaps for a SaaS platform, resulting in a 25% increase in 
+            customer retention in the first year.
+          - Collaborated cross-functionally to launch three major updates, reducing time-to-market by 15%.
+          - Spearheaded a user-centric innovation project that developed a mobile-first feature, boosting daily 
+            active users by 40%.
+          - Established product performance KPIs that improved customer satisfaction scores by 20%.
+          - Led market expansion efforts that increased ARR by 18% over six months by identifying new segments.
+          - Drove customer feedback integration to reduce churn by 10% through a scalable feedback collection system.
+      - company: Tech Solutions Co.
+        position: Associate Product Manager
+        start_date: 2020-04
+        end_date: 2022-01
+        location: Remote
+        highlights:
+          - Developed a feature scoring matrix that enhanced the prioritization of high-value updates.
+          - Conducted user research to refine product workflows based on customer insights.
+          - Achieved a 15% increase in user engagement by coordinating the launch of key features.
+          - Identified gaps through competitive analysis, guiding the product roadmap for differentiation.
+          - Created detailed product specifications and maintained stakeholder alignment, reducing rework by 30%.
+      - company: Creative Tech Co.
+        position: Senior Product Designer
+        start_date: 2018-01
+        end_date: 2020-04
+        location: "City Name"
+        highlights:
+          - Led end-to-end design for a cloud-based tool, adopted by over 10,000 businesses.
+          - Overhauled the visual identity of the flagship product, resulting in a 30% increase in NPS scores.
+          - Conducted UX research that led to an 80% reduction in onboarding time for new users.
+          - Built a comprehensive design system, reducing development time for new features by 25%.
+      - company: Creative Tech Co.
+        position: Product Designer
+        start_date: 2016-04
+        end_date: 2018-01
+        location: "City Name"
+        highlights:
+          - Designed user interfaces for a project management app, driving a 20% increase in user retention.
+      - company: Agency X
+        position: Junior Designer
+        start_date: 2015-01
+        end_date: 2016-04
+        location: "City Name"
+        highlights:
+          - Created visual marketing assets, resulting in a 15% increase in client conversion rates.
+    skills:
+      - label: Technical Skills
+        details: | 
+          - **Product Management Tools**: Jira, Trello, Asana, Confluence, Aha!
+          - **Data Analytics & Visualization**: SQL, Tableau, Google Analytics, Mixpanel, Power BI
+          - **Agile Methodologies**: Scrum, Kanban, SAFe, Lean Product Development
+          - **User Experience Design**: Figma, Adobe XD, Balsamiq
+          - **Payment Security & Compliance**: Tokenization, PCI Compliance, Fraud Detection
+          - **APIs and Integrations**: RESTful APIs, Postman, Swagger
+          - **Cloud Platforms**: AWS, Azure, GCP
+      - label: Soft Skills
+        details: |
+          - Strategic Thinking, Communication, Leadership, Empathy and User Focus, Problem-Solving
+          - Collaboration, Decision-Making, Adaptability, Mentorship, Conflict Resolution
+    education:
+      - institution: Technical University of Munich
+        area: Human-Computer Interaction
+        degree: MSc
+    languages:
+      - label: Languages
+        details: |
+          - English: Native
+          - German: Proficient
+          - Spanish: Intermediate
+design:
+  theme: engineeringclassic
+locale:
+  phone_number_format: international
+rendercv_settings:
+  bold_keywords:
+    - Tokenization
+    - PCI Compliance

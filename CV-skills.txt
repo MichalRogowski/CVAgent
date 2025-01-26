@@ -1,0 +1,25 @@
+My tech skills are:
+	•	Product Management Tools: Jira, Trello, Asana, Confluence, Aha!
+	•	Data Analytics & Visualization: SQL, Tableau, Google Analytics, Mixpanel, Power BI
+	•	Agile Methodologies: Scrum, Kanban, SAFe, Lean Product Development
+	•	User Experience Design: Wireframing, prototyping, and usability testing with Figma, Adobe XD, and Balsamiq
+	•	Fraud Prevention & Security: Familiarity with fraud detection systems, machine learning models, and behavior-based risk analysis tools
+	•	APIs and Integrations: Understanding RESTful APIs, Postman, Swagger
+	•	Cloud Platforms: AWS, Azure, Google Cloud Platform (GCP)
+	•	Programming Knowledge: Python (basic scripting for analytics), HTML/CSS, JavaScript (basic understanding)
+	•	AI and Automation: Knowledge of ChatGPT API, AI-powered analytics tools, and automation workflows
+	•	CRM Systems: HubSpot, Salesforce, Zendesk
+	•	A/B Testing and Experimentation: Optimizely, Google Optimize, and custom test frameworks
+
+My soft skills are:
+
+	•	Strategic Thinking: Adept at setting long-term product visions and aligning them with business objectives.
+	•	Communication: Excellent at conveying complex ideas to both technical and non-technical stakeholders.
+	•	Leadership: Proven ability to inspire and manage cross-functional teams in high-pressure situations.
+	•	Empathy and User Focus: Strong commitment to understanding and prioritizing user needs through customer-centric approaches.
+	•	Problem-Solving: Skilled in identifying pain points, analyzing root causes, and implementing actionable solutions.
+	•	Collaboration: Experience working across diverse teams, bridging gaps between design, engineering, and business units.
+	•	Decision-Making: Confident in making data-driven decisions while balancing innovation and risk.
+	•	Adaptability: Thrives in fast-paced, evolving environments, capable of pivoting strategies when necessary.
+	•	Mentorship and Coaching: Passionate about fostering talent, guiding junior team members, and building a culture of growth.
+	•	Conflict Resolution: Skilled in mediating team disagreements and aligning stakeholders toward common goals.

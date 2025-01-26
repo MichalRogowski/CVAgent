@@ -1,0 +1,48 @@
+Visa is a world leader in payments and technology, with over 259 billion payments transactions flowing safely between consumers, merchants, financial institutions, and government entities in more than 200 countries and territories each year. Our mission is to connect the world through the most innovative, convenient, reliable, and secure payments network, enabling individuals, businesses, and economies to thrive while driven by a common purpose – to uplift everyone, everywhere by being the best way to pay and be paid.
+
+Make an impact with a purpose-driven industry leader. Join us today and experience Life at Visa.
+
+Job Description
+
+This position will be responsible for managing Visa Acceptance Payment Tokenization for clients and partners managing regional schemes support. Payment Tokenization replaces sensitive payment data with a unique identifier or token that cannot be mathematically reversed. The payment data is securely stored and managed within Visa Data centers. The Token Management Service allows merchants to securely manage payment credentials securely by reducing investment cost, optimizing payment success and expanding new payment flows. The Acceptance Tokenization platform is interoperable with all other Visa Acceptance solutions allowing merchants and partners to secure their data while optimizing their payment management.
+
+The key responsibilities for this position include managing the entire product lifecycle for Tokenization services including strategic planning through rollout activities for expanding network token support for regional/domestic schemes. In order to accomplish this, the Product Manager will require Subject Matter Expertise in Merchant/Partner Payment Security as well as practical experience in Payment Card Industry (PCI) Compliance efforts. The Product Manager will be required to work closely with the Product Development teams in preparing product and business requirements by leveraging market research as well as customer and partner feedback. In order to achieve success, this Product Manager will need to create a plan and execute the commercialization rollout for new features and functionality valued by our customers for the Tokenization service. To facilitate the rollout, this requires engaging with cross-functional stakeholder across VISA and partner organizations. Ultimately, the Product Manager will be accountable for product results including transaction growth, revenue growth and merchant adoption.
+
+This position will be working with stakeholders across different business lines in Visa’s Acceptance Solutions group dispersed globally and will be based in Warsaw, Poland
+
+JOB SCOPE:
+
+Execute a robust and comprehensive secured credentials strategy for the Visa’s Acceptance regional product lines, to support the broad range of merchant use cases
+Contribute to the development of the overall product strategy, product roadmap, and business plan
+Perform market research to gain market insights across the industry.
+Work closely with Product line Owners, Solution delivery , Marketing, Sales, customers, partners and Engineering teams to define and develop detailed product/ business requirements
+Perform User Acceptance Testing and ensure requirements were understood and implemented as requested
+Evaluate new product opportunities and bring forward proposals for products
+Influence product and technology strategy and direction (roadmap), and product and user experience decision-making through full suite of reporting and analytic tools.
+Manage Vendor engagement with internal and external third-party services related to Payment Security.
+Define and drive Tokenization efforts across all existing and new product features
+Evangelize the power of analytics and experimentation in building a data-driven organization
+
+This is a hybrid position. Hybrid employees can alternate time between both remote and office. Employees in hybrid roles are expected to work from the office 2-3 set days a week (determined by leadership/site), with a general guidepost of being in the office 50% or more of the time based on business needs.
+
+Qualifications
+
+Bachelor’s degree in finance, Computer Science, Engineering, or equivalent experience including merchant or partners payment experience.
+Experience in Payments or Payments Security.
+Strong working knowledge of applicable Card Brand Rules, PCI Compliance, Brand Regulations, technologies & concepts for Payment Security services including:
+Experience using Tokenization or Encryption security solutions
+Exposure to PCI Compliance audit activities
+Knowledge of Best Practices Merchant Initiated (MIT) transactions and Cardholder initiated transaction (CIT) mandates
+Merchant and Partner Key Performance Indicators for managing and scaling business.
+Adept in Agile development methodologies and ceremonies.
+Strong project management skills and demonstrated ability to coordinate multiple parties to deliver market facing products
+Strong product management experience in analytics, big data, mobile, or payments responsible for value proposition definition and communications, product differentiation, cost/benefit analysis, and executive presentations
+Creative spark – in product innovation, product management, and finding ways to get things done
+Demonstrated strength at building relationships, highly motivated, strong sense of urgency, ability to motivate others
+Excellent written and oral communication skills with a flair for getting people excited
+Team player, with proven track record of taking initiative and ownership of responsibilities and deliverables
+Must have prior experience in Merchant Services Industry.
+
+Additional Information
+
+Visa is an EEO Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.

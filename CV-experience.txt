@@ -1,0 +1,62 @@
+<commercial_experience>
+My Commercial Experience
+
+<position>
+Product Manager {accomplishments_pm} at [Tech Solutions Co.] since Q1 2022 (remote)
+</position>
+<highlights>
+• **Strategic Product Roadmapping**: Designed and implemented product roadmaps for a SaaS platform, prioritizing features that increased customer retention by 25% within the first year.
+• **Cross-Functional Collaboration**: Partnered with engineering, marketing, and customer success teams to launch three major platform updates, reducing time-to-market by 15%.
+• **User-Centric Innovation**: Conducted user research sessions and usability tests, leading to the development of a mobile-first feature that boosted daily active users (DAUs) by 40%.
+• **Data-Driven Decision Making**: Established product performance KPIs, enabling the team to make data-informed adjustments that improved customer satisfaction scores by 20%.
+• **Market Expansion**: Identified new customer segments in emerging markets, guiding the product strategy to increase ARR by 18% over six months.
+• **Agile Leadership**: Led sprint planning and retrospectives for a distributed team, ensuring alignment with company objectives and on-time feature deliveries.
+• **Customer Feedback Integration**: Built a scalable feedback collection system, leveraging insights to prioritize the most impactful feature requests and reduce churn by 10%.
+• **Internal Tools Optimization**: Spearheaded the redesign of an internal analytics dashboard, improving usability for non-technical stakeholders and increasing adoption by 50%.
+</highlights>
+
+<position>
+Associate Product Manager {accomplishments_apm} at [Tech Solutions Co.] from Q2 2020 to Q1 2022 (remote)
+</position>
+<highlights>
+• **Feature Prioritization**: Developed a feature scoring matrix to evaluate customer impact and engineering effort, improving the team's ability to focus on high-value updates.
+• **User Research Facilitation**: Collaborated with the UX team to conduct workshops and interviews, refining product workflows based on customer pain points.
+• **Launch Coordination**: Managed the release of two key features, including a customizable dashboard and automated notifications, resulting in a 15% increase in user engagement.
+• **Competitive Analysis**: Regularly analyzed competitor offerings, identifying gaps that informed the roadmap for differentiating product features.
+• **Internal Stakeholder Management**: Created detailed product specs and maintained alignment between stakeholders, reducing rework by 30%.
+• **Continuous Learning**: Completed advanced training in product analytics, applying newfound skills to optimize A/B testing strategies for feature rollouts.
+</highlights>
+
+<position>
+Senior Product Designer {accomplishments_spd} at [Creative Tech Co.] from Q1 2018 to Q2 2020 ([City Name])
+</position>
+<highlights>
+• **End-to-End Design Leadership**: Designed user flows, wireframes, and prototypes for a cloud-based collaboration tool, which was adopted by over 10,000 businesses.
+• **Branding and Visual Identity**: Led the visual overhaul of the company’s flagship product, increasing customer trust and brand recognition as measured by a 30% uptick in NPS scores.
+• **Collaboration with Product Managers**: Partnered closely with the product team to prioritize features, aligning design efforts with business objectives.
+• **UX Research**: Conducted usability testing for high-priority features, leading to an 80% reduction in onboarding time for new users.
+• **Design System Creation**: Built and maintained a comprehensive design system, reducing development time for new features by 25%.
+• **Mentorship**: Provided guidance to junior designers, fostering skill development and increasing team productivity.
+</highlights>
+
+<position>
+Product Designer {accomplishments_pd} at [Creative Tech Co.] from Q2 2016 to Q1 2018 ([City Name])
+</position>
+<highlights>
+• **UI/UX Design**: Designed intuitive user interfaces for a project management app, driving a 20% increase in user retention.
+• **Cross-Team Collaboration**: Worked with developers and QA teams to ensure smooth handoffs and implementation of designs.
+• **Customer Empathy Mapping**: Created detailed customer personas that informed product strategy and prioritized feature development.
+• **Iterative Improvements**: Participated in regular design sprints, iterating on designs based on user feedback and analytics.
+• **Design Advocacy**: Advocated for user-centric principles across the organization, leading to a more cohesive product experience.
+</highlights>
+
+<position>
+Junior Designer {accomplishments_jd} at [Agency X] from Q1 2015 to Q2 2016 ([City Name])
+</position>
+<highlights>
+• **Visual Design**: Designed marketing assets, including banners, social media posts, and landing pages, contributing to a 15% increase in client conversions.
+• **Collaborative Campaigns**: Worked with cross-functional teams to deliver creative solutions for client projects across industries.
+• **Learning and Growth**: Shadowed senior designers, building foundational skills in UI/UX design and responsive web design.
+</highlights>
+
+</commercial_experience>

@@ -1,0 +1,24 @@
+Full Name: John Doe
+Location: Berlin, Germany; Remote
+Telephone: +49 163 555 1584
+E-mail: alex.nowak@11111.com
+Personal Website: https://www.alexnowakproduct.com
+LinkedIn Link: https://www.linkedin.com/in/alex-nowak/
+GitHub Link: https://github.com/alexnowak
+YouTube Link: https://www.youtube.com/@11111111yoooooo
+
+Languages:
+	•	English: Native
+	•	German: Proficient
+	•	Spanish: Intermediate
+
+Education:
+Institution: Technical University of Munich
+Area: Human-Computer Interaction
+Degree: MSc
+
+Experienced Senior Product Manager with over 10 years of experience driving product innovation and leading cross-functional teams in fast-paced, global environments. Demonstrated expertise in delivering large-scale projects, streamlining operational systems, and implementing advanced fraud prevention measures to ensure robust platform security.
+
+Skilled in fostering high-performing teams, cultivating inclusive cultures, and leveraging data-driven insights to achieve measurable outcomes.
+
+Founder and content creator of a YouTube channel dedicated to equipping product managers and tech leaders with practical strategies, expert guidance, and actionable techniques for excelling in product management, leadership, and emerging technologies like AI.
