@@ -8,7 +8,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.13"
-rendercv = "2.1"
+rendercv = {version = "2.1", extras = ["full"]}
 autogen-ext = {version = "0.4.3", extras = ["openai"]}
 autogen-agentchat = "0.4.3"
 python-dotenv = "1.0.1"
