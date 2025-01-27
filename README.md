@@ -1,8 +1,7 @@
 
 # CVAgent
-
-CVAgent is an AI-driven tool that generates, critiques, and renders resumes tailored to specific job ads. Powered by **Autogen** and the **RenderCV** library, it refines user inputs and job requirements into a polished CV, saving time and ensuring alignment. Start building your next resume with ease.
-
+![Social-preview](./Social-preview.png)
+Powered by **Autogen** and the **RenderCV** library, it refines user inputs and job requirements into a polished CV, saving time and ensuring alignment. Start building your next resume with ease.
 ---
 
 ## Table of Contents
@@ -17,7 +16,7 @@ CVAgent is an AI-driven tool that generates, critiques, and renders resumes tail
 ---
 
 ## Prerequisites
-- [Python 3.7+](https://www.python.org/downloads/)
+- [Python 3.13+](https://www.python.org/downloads/)
 - [Poetry](https://python-poetry.org/docs/)
 
 ---
@@ -71,14 +70,12 @@ If this happens, simply change the `yaml_writer` agent to use the pre-configured
 ---
 
 ## Output
-- By default, the generated PDF file is saved in the `render_output` folder. 
-- The default file name is **John_Doe_CV.pdf**.
-
+- By default, the generated PDF file is saved in the `render_output` folder (if AI won't change it).
+![Example_pdf_output](./rendercv_output/John_Doe_CV_1.png)
 ---
 
 ## Contributing
 Feel free to open issues or submit pull requests if you have any improvements or suggestions.
-
 ---
 
 ## License

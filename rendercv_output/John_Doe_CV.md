@@ -2,7 +2,7 @@
 
 - Phone: +49 163 5551584
 - Email: [alex.nowak@11111.com](mailto:alex.nowak@11111.com)
-- Location: Berlin, Germany; Remote
+- Location: Berlin, Germany
 - Website: [www.alexnowakproduct.com](https://www.alexnowakproduct.com/)
 - LinkedIn: [alex-nowak](https://linkedin.com/in/alex-nowak)
 - GitHub: [alexnowak](https://github.com/alexnowak)
@@ -11,64 +11,7 @@
 
 # Professional Summary
 
-Experienced Senior Product Manager with over 10 years of experience in driving product innovation, specializing in payment security and tokenization. Proven track record of leading cross-functional teams to deliver large-scale projects successfully while implementing advanced fraud prevention technologies. Adept at utilizing data-driven insights to achieve measurable outcomes and create customer-centric strategies. Passionate about mentoring future product managers and fostering inclusive team cultures.
-
-# Commercial Experience
-
-## Tech Solutions Co., Product Manager
-
-- Jan 2022 – present
-- Remote
-- Designed and implemented product roadmaps for a SaaS platform, resulting in a 25% increase in customer retention in the first year.
-- Collaborated cross-functionally to launch three major updates, reducing time-to-market by 15%.
-- Spearheaded a user-centric innovation project that developed a mobile-first feature, boosting daily active users by 40%.
-- Established product performance KPIs that improved customer satisfaction scores by 20%.
-- Led market expansion efforts that increased ARR by 18% over six months by identifying new segments.
-- Drove customer feedback integration to reduce churn by 10% through a scalable feedback collection system.
-
-## Tech Solutions Co., Associate Product Manager
-
-- Apr 2020 – Jan 2022
-- Remote
-- Developed a feature scoring matrix that enhanced the prioritization of high-value updates.
-- Conducted user research to refine product workflows based on customer insights.
-- Achieved a 15% increase in user engagement by coordinating the launch of key features.
-- Identified gaps through competitive analysis, guiding the product roadmap for differentiation.
-- Created detailed product specifications and maintained stakeholder alignment, reducing rework by 30%.
-
-## Creative Tech Co., Senior Product Designer
-
-- Jan 2018 – Apr 2020
-- City Name
-- Led end-to-end design for a cloud-based tool, adopted by over 10,000 businesses.
-- Overhauled the visual identity of the flagship product, resulting in a 30% increase in NPS scores.
-- Conducted UX research that led to an 80% reduction in onboarding time for new users.
-- Built a comprehensive design system, reducing development time for new features by 25%.
-
-## Creative Tech Co., Product Designer
-
-- Apr 2016 – Jan 2018
-- City Name
-- Designed user interfaces for a project management app, driving a 20% increase in user retention.
-
-## Agency X, Junior Designer
-
-- Jan 2015 – Apr 2016
-- City Name
-- Created visual marketing assets, resulting in a 15% increase in client conversion rates.
-
-# Skills
-
-- Technical Skills: - **Product Management Tools**: Jira, Trello, Asana, Confluence, Aha!
-- **Data Analytics & Visualization**: SQL, Tableau, Google Analytics, Mixpanel, Power BI
-- **Agile Methodologies**: Scrum, Kanban, SAFe, Lean Product Development
-- **User Experience Design**: Figma, Adobe XD, Balsamiq
-- **Payment Security & Compliance**: **Tokenization**, **PCI Compliance**, Fraud Detection
-- **APIs and Integrations**: RESTful APIs, Postman, Swagger
-- **Cloud Platforms**: AWS, Azure, GCP
-
-- Soft Skills: - Strategic Thinking, Communication, Leadership, Empathy and User Focus, Problem-Solving
-- Collaboration, Decision-Making, Adaptability, Mentorship, Conflict Resolution
+Experienced Senior Product Manager with over 10 years of experience driving product innovation and leading cross-functional teams in fast-paced, global environments. Demonstrated expertise in delivering large-scale projects and implementing advanced fraud prevention measures to ensure robust platform security. Skilled in fostering high-performing teams and leveraging data-driven insights to achieve measurable outcomes.
 
 # Education
 
@@ -77,7 +20,70 @@ Experienced Senior Product Manager with over 10 years of experience in driving p
 
 # Languages
 
-- Languages: - English: Native
+- English: Native
 - German: Proficient
 - Spanish: Intermediate
+# Commercial Experience
+
+## Tech Solutions Co., Product Manager
+
+- Jan 2022 – present
+- Strategic Product Roadmapping: Designed and implemented product roadmaps for a SaaS platform, increasing customer retention by 25%.
+- Cross-Functional Collaboration: Partnered with engineering, marketing, and customer success teams to launch three major platform updates, reducing time-to-market by 15%.
+- User-Centric Innovation: Conducted user research, leading to a mobile-first feature that boosted daily active users by 40%.
+- Market Expansion: Identified new customer segments in emerging markets, guiding product strategy to increase ARR by 18%.
+
+## Tech Solutions Co., Associate Product Manager
+
+- Apr 2020 – Jan 2022
+- Feature Prioritization: Developed a feature scoring matrix, enhancing focus on high-value updates.
+- Launch Coordination: Managed the release of key features, resulting in a 15% increase in user engagement.
+- User Research Facilitation: Collaborated with UX to refine product workflows based on customer pain points.
+
+## Creative Tech Co., Senior Product Designer
+
+- Jan 2018 – June 2020
+- End-to-End Design Leadership: Designed user flows and prototypes for a collaboration tool adopted by over 10,000 businesses.
+- Collaboration with Product Managers: Partnered to prioritize features, aligning design with business objectives.
+
+## Creative Tech Co., Product Designer
+
+- Apr 2016 – Jan 2018
+- UI/UX Design: Created intuitive interfaces, leading to a 20% increase in user retention.
+- Iterative Improvements: Iterated designs based on user feedback and analytics.
+
+## Agency X, Junior Designer
+
+- Jan 2015 – June 2016
+- Visual Design: Designed marketing assets, contributing to a 15% increase in client conversions.
+
+# Technical Skills
+
+Product Management Tools: Jira, Trello, Asana, Confluence, Aha!
+
+Data Analytics & Visualization: SQL, Tableau, Google Analytics
+
+Agile Methodologies: Scrum, Kanban, SAFe, Lean
+
+User Experience Design: Figma, Adobe XD, Balsamiq
+
+Fraud Prevention & Security: Tokenization, PCI Compliance
+
+Cloud Platforms: AWS, Azure, GCP
+
+Programming Knowledge: Python, HTML/CSS, JavaScript
+
+# Soft Skills
+
+Strategic Thinking
+
+Communication & Leadership
+
+Problem-Solving & Decision-Making
+
+Adaptability & Mentorship
+
+# Additional Information
+
+Founder and content creator of a YouTube channel dedicated to equipping product managers with practical strategies for excelling in product management and emerging technologies.
 

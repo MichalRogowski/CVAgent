@@ -47,7 +47,9 @@ def _run_command(command: str):
         )
     if result.stdout:
         logging.debug(f"Command Result: {result.stdout.decode('utf-8')}")
-    return result.stdout.decode('utf-8')
+
+    lines = result.stdout.decode('utf-8').split('\n')
+    return '\n'.join(lines)
 
 
 async def generate_cv():
@@ -105,28 +107,28 @@ def generate_cv_taking_swarm() -> Swarm:
         In the final CV Edit or modify my skills as needed, based on other experience with personal highlights.
 
         Here are guidelines how to write a proper CV:
-        1. Keep it Clear and Easy to Read 
+        1. **Keep it Clear and Easy to Read** 
          - Your resume should immediately highlight key info: years of experience, technical skills, 
          and leadership/significant roles (if any). 
          - Avoid clutter. Use clean formatting with clear sections so I don’t have to search for the basics. 
 
-        2. Be Selective with  Skills 
+        2. **Be Selective with  Skills** 
          - Listing every tech skill you’ve ever touched does not help. Instead, focus on those that directly align with 
          the job description. Edit or modify my skills as needed, based on other experiences with personal highlights. 
          - Highlight your proficiency in key languages and tools rather than overwhelming the reader with a long list.
          - When possible make sure to use Keywords from the **advert**, if the skills from experience or 
          skills are similar
 
-        3. Describe, Don’t Overwhelm 
+        3. **Describe, Don’t Overwhelm** 
          - Each project should tell a story in **3-6** concise bullet points. Stick to the most impactful details: 
          **what you built, the outcome, and the tools used, for more senior positions add more bullet points. **
 
-        4. Use Simple Language 
+        4. **Use Simple Language** 
          - Don’t write your resume like a research paper. 
          - Show you can explain complex ideas clearly. 
          - If I need to reread a sentence to understand it, you’ve lost me. 
 
-        5. Tailor Your Resume to the Job the job **advert**
+        5. **Tailor Your Resume to the Job the job advert**
         - Don’t make recruiters sift through irrelevant details. 
         - Customize your resume to emphasize skills and experience that match the role. 
 

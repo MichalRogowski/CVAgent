@@ -13,33 +13,33 @@
 #let design-colors-name = rgb(0, 79, 144)
 #let design-colors-connections = rgb(0, 79, 144)
 #let design-colors-links = rgb(0, 79, 144)
-#let design-section-titles-bold = false
+#let design-section-titles-bold = true
 #let design-section-titles-line-thickness = 0.5pt
 #let design-section-titles-font-size = 1.4em
 #let design-section-titles-type = "with-parial-line"
 #let design-section-titles-vertical-space-above = 0.5cm
 #let design-section-titles-vertical-space-below = 0.3cm
 #let design-section-titles-small-caps = false
-#let design-links-use-external-link-icon = false
+#let design-links-use-external-link-icon = true
 #let design-text-font-size = 10pt
 #let design-text-leading = 0.6em
-#let design-text-font-family = "Noto Sans"
+#let design-text-font-family = "Source Sans 3"
 #let design-text-alignment = "justified"
 #let design-text-date-and-location-column-alignment = right
 #let design-header-photo-width = 3.5cm
 #let design-header-use-icons-for-connections = true
 #let design-header-name-font-size = 30pt
-#let design-header-name-bold = false
+#let design-header-name-bold = true
 #let design-header-vertical-space-between-name-and-connections = 0.7cm
 #let design-header-vertical-space-between-connections-and-first-section = 0.7cm
 #let design-header-use-icons-for-connections = true
 #let design-header-horizontal-space-between-connections = 0.5cm
 #let design-header-separator-between-connections = ""
-#let design-header-alignment = left
+#let design-header-alignment = center
 #let design-highlights-summary-left-margin = 0cm
 #let design-highlights-bullet = "•"
 #let design-highlights-top-margin = 0.25cm
-#let design-highlights-left-margin = 0cm
+#let design-highlights-left-margin = 0.4cm
 #let design-highlights-vertical-space-between-highlights = 0.25cm
 #let design-highlights-horizontal-space-between-bullet-and-highlights = 0.5em
 #let design-entries-vertical-space-between-entries = 1.2em
@@ -52,7 +52,7 @@
 #let design-page-left-margin = 2cm
 #let design-page-right-margin = 2cm
 #let design-page-show-last-updated-date = true
-#let design-page-show-page-numbering = false
+#let design-page-show-page-numbering = true
 #let design-links-underline = false
 #let design-entry-types-education-entry-degree-column-width = 1cm
 #let date = datetime.today()
@@ -443,9 +443,9 @@
 
 // Print connections:
 #let connections-list = (
-  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Berlin, Germany; Remote],
+  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Berlin, Germany],
   [#box(original-link("mailto:alex.nowak@11111.com")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)alex.nowak\@11111.com])],
-  [#box(original-link("tel:+49-163-5551584")[#fa-icon("phone", size: 0.9em) #h(0.05cm)+49 163 5551584])],
+  [#box(original-link("tel:+49-163-5551584")[#fa-icon("phone", size: 0.9em) #h(0.05cm)0163 5551584])],
   [#box(original-link("https://www.alexnowakproduct.com/")[#fa-icon("link", size: 0.9em) #h(0.05cm)www.alexnowakproduct.com])],
   [#box(original-link("https://linkedin.com/in/alex-nowak")[#fa-icon("linkedin", size: 0.9em) #h(0.05cm)alex-nowak])],
   [#box(original-link("https://github.com/alexnowak")[#fa-icon("github", size: 0.9em) #h(0.05cm)alexnowak])],
@@ -458,110 +458,7 @@
 == Professional Summary
 
 #one-col-entry(
-  content: [Experienced Senior Product Manager with over 10 years of experience in driving product innovation, specializing in payment security and tokenization. Proven track record of leading cross-functional teams to deliver large-scale projects successfully while implementing advanced fraud prevention technologies. Adept at utilizing data-driven insights to achieve measurable outcomes and create customer-centric strategies. Passionate about mentoring future product managers and fostering inclusive team cultures.]
-)
-
-
-== Commercial Experience
-
-#two-col-entry(
-  left-content: [
-    #strong[Product Manager], Tech Solutions Co. -- Remote
-  ],
-  right-content: [
-    Jan 2022 – present
-  ],
-)
-#one-col-entry(
-  content: [
-    #v(design-highlights-top-margin);#highlights([Designed and implemented product roadmaps for a SaaS platform, resulting in a 25\% increase in customer retention in the first year.],[Collaborated cross-functionally to launch three major updates, reducing time-to-market by 15\%.],[Spearheaded a user-centric innovation project that developed a mobile-first feature, boosting daily active users by 40\%.],[Established product performance KPIs that improved customer satisfaction scores by 20\%.],[Led market expansion efforts that increased ARR by 18\% over six months by identifying new segments.],[Drove customer feedback integration to reduce churn by 10\% through a scalable feedback collection system.],)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Associate Product Manager], Tech Solutions Co. -- Remote
-  ],
-  right-content: [
-    Apr 2020 – Jan 2022
-  ],
-)
-#one-col-entry(
-  content: [
-    #v(design-highlights-top-margin);#highlights([Developed a feature scoring matrix that enhanced the prioritization of high-value updates.],[Conducted user research to refine product workflows based on customer insights.],[Achieved a 15\% increase in user engagement by coordinating the launch of key features.],[Identified gaps through competitive analysis, guiding the product roadmap for differentiation.],[Created detailed product specifications and maintained stakeholder alignment, reducing rework by 30\%.],)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Senior Product Designer], Creative Tech Co. -- City Name
-  ],
-  right-content: [
-    Jan 2018 – Apr 2020
-  ],
-)
-#one-col-entry(
-  content: [
-    #v(design-highlights-top-margin);#highlights([Led end-to-end design for a cloud-based tool, adopted by over 10,000 businesses.],[Overhauled the visual identity of the flagship product, resulting in a 30\% increase in NPS scores.],[Conducted UX research that led to an 80\% reduction in onboarding time for new users.],[Built a comprehensive design system, reducing development time for new features by 25\%.],)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Product Designer], Creative Tech Co. -- City Name
-  ],
-  right-content: [
-    Apr 2016 – Jan 2018
-  ],
-)
-#one-col-entry(
-  content: [
-    #v(design-highlights-top-margin);#highlights([Designed user interfaces for a project management app, driving a 20\% increase in user retention.],)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Junior Designer], Agency X -- City Name
-  ],
-  right-content: [
-    Jan 2015 – Apr 2016
-  ],
-)
-#one-col-entry(
-  content: [
-    #v(design-highlights-top-margin);#highlights([Created visual marketing assets, resulting in a 15\% increase in client conversion rates.],)
-  ],
-)
-
-
-
-== Skills
-
-#one-col-entry(
-  content: [#strong[Technical Skills:] - #strong[Product Management Tools]: Jira, Trello, Asana, Confluence, Aha!
-
-- #strong[Data Analytics & Visualization]: SQL, Tableau, Google Analytics, Mixpanel, Power BI
-
-- #strong[Agile Methodologies]: Scrum, Kanban, SAFe, Lean Product Development
-
-- #strong[User Experience Design]: Figma, Adobe XD, Balsamiq
-
-- #strong[Payment Security & Compliance]: #strong[Tokenization], #strong[PCI Compliance], Fraud Detection
-
-- #strong[APIs and Integrations]: RESTful APIs, Postman, Swagger
-
-- #strong[Cloud Platforms]: AWS, Azure, GCP]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[Soft Skills:] - Strategic Thinking, Communication, Leadership, Empathy and User Focus, Problem-Solving
-
-- Collaboration, Decision-Making, Adaptability, Mentorship, Conflict Resolution]
+  content: [Experienced Senior Product Manager with over 10 years of experience driving product innovation and leading cross-functional teams in fast-paced, global environments. Demonstrated expertise in delivering large-scale projects and implementing advanced fraud prevention measures to ensure robust platform security. Skilled in fostering high-performing teams and leveraging data-driven insights to achieve measurable outcomes.]
 )
 
 
@@ -576,7 +473,7 @@
     #strong[MSc]
   ],
   right-content: [
-    #strong[Technical University of Munich], Human-Computer Interaction 
+    #strong[Technical University of Munich], Human-Computer Interaction
   ],
 )
 
@@ -585,11 +482,150 @@
 == Languages
 
 #one-col-entry(
-  content: [#strong[Languages:] - English: Native
+  content: [#strong[English:] Native]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [#strong[German:] Proficient]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [#strong[Spanish:] Intermediate]
+)
 
-- German: Proficient
 
-- Spanish: Intermediate]
+== Commercial Experience
+
+#two-col-entry(
+  left-content: [
+    #strong[Tech Solutions Co.], Product Manager
+  ],
+  right-content: [
+    Jan 2022 – present
+  ],
+)
+#one-col-entry(
+  content: [
+    #v(design-highlights-top-margin);#highlights([Strategic Product Roadmapping: Designed and implemented product roadmaps for a SaaS platform, increasing customer retention by 25\%.],[Cross-Functional Collaboration: Partnered with engineering, marketing, and customer success teams to launch three major platform updates, reducing time-to-market by 15\%.],[User-Centric Innovation: Conducted user research, leading to a mobile-first feature that boosted daily active users by 40\%.],[Market Expansion: Identified new customer segments in emerging markets, guiding product strategy to increase ARR by 18\%.],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Tech Solutions Co.], Associate Product Manager
+  ],
+  right-content: [
+    Apr 2020 – Jan 2022
+  ],
+)
+#one-col-entry(
+  content: [
+    #v(design-highlights-top-margin);#highlights([Feature Prioritization: Developed a feature scoring matrix, enhancing focus on high-value updates.],[Launch Coordination: Managed the release of key features, resulting in a 15\% increase in user engagement.],[User Research Facilitation: Collaborated with UX to refine product workflows based on customer pain points.],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Creative Tech Co.], Senior Product Designer
+  ],
+  right-content: [
+    Jan 2018 – June 2020
+  ],
+)
+#one-col-entry(
+  content: [
+    #v(design-highlights-top-margin);#highlights([End-to-End Design Leadership: Designed user flows and prototypes for a collaboration tool adopted by over 10,000 businesses.],[Collaboration with Product Managers: Partnered to prioritize features, aligning design with business objectives.],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Creative Tech Co.], Product Designer
+  ],
+  right-content: [
+    Apr 2016 – Jan 2018
+  ],
+)
+#one-col-entry(
+  content: [
+    #v(design-highlights-top-margin);#highlights([UI/UX Design: Created intuitive interfaces, leading to a 20\% increase in user retention.],[Iterative Improvements: Iterated designs based on user feedback and analytics.],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Agency X], Junior Designer
+  ],
+  right-content: [
+    Jan 2015 – June 2016
+  ],
+)
+#one-col-entry(
+  content: [
+    #v(design-highlights-top-margin);#highlights([Visual Design: Designed marketing assets, contributing to a 15\% increase in client conversions.],)
+  ],
+)
+
+
+
+== Technical Skills
+
+#one-col-entry(
+  content: [Product Management Tools: Jira, Trello, Asana, Confluence, Aha!]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [Data Analytics & Visualization: SQL, Tableau, Google Analytics]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [Agile Methodologies: Scrum, Kanban, SAFe, Lean]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [User Experience Design: Figma, Adobe XD, Balsamiq]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [Fraud Prevention & Security: Tokenization, PCI Compliance]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [Cloud Platforms: AWS, Azure, GCP]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [Programming Knowledge: Python, HTML/CSS, JavaScript]
+)
+
+
+== Soft Skills
+
+#one-col-entry(
+  content: [Strategic Thinking]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [Communication & Leadership]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [Problem-Solving & Decision-Making]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [Adaptability & Mentorship]
+)
+
+
+== Additional Information
+
+#one-col-entry(
+  content: [Founder and content creator of a YouTube channel dedicated to equipping product managers with practical strategies for excelling in product management and emerging technologies.]
 )
 
 
