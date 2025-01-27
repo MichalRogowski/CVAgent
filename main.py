@@ -23,6 +23,18 @@ openai_model_mini_client = OpenAIChatCompletionClient(
     api_key=os.getenv("OPENAI_API_KEY"),
 )
 
+ollama_33 = OpenAIChatCompletionClient(
+    model="llama3.3:latest",
+    base_url="http://localhost:11434/v1",
+    api_key="placeholder",
+    model_info={
+        "vision": False,
+        "function_calling": True,
+        "json_output": False,
+        "family": "unknown",
+    },
+)
+
 
 def get_file_content(filename: str) -> str:
     with open(f"{filename}", "r", encoding="utf-8") as file:
