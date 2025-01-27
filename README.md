@@ -69,6 +69,9 @@ Powered by **Autogen** and the **RenderCV** library, it refines user inputs and 
 If this happens, simply change the `yaml_writer` agent to use the pre-configured `openai_model_4o_client`.
 ---
 
+## Architecture Diagram
+![Architecture Diagram](./CVAgent-architecture.png)
+
 ## Output
 - By default, the generated PDF file is saved in the `render_output` folder (if AI won't change it).
 ![Example_pdf_output](./rendercv_output/John_Doe_CV_1.png)
